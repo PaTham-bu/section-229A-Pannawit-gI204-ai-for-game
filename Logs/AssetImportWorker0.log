@@ -306,3 +306,147 @@ Received Import Request.
 Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fa6375dab34442ba545e0ecf7ce7dc69') in 0.0078257 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 112.469269 seconds.
+  path: Assets/Sky.mat
+  artifactKey: Guid(2aaa32b3db9a30d4ba8d884163ecb742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sky.mat using Guid(2aaa32b3db9a30d4ba8d884163ecb742) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f10dac42feda59dae9ae9c9e39a8f63') in 0.0114505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.406728 seconds.
+  path: Assets/text.jpg
+  artifactKey: Guid(3bba2b1401057d24b8652193cc309d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/text.jpg using Guid(3bba2b1401057d24b8652193cc309d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '010a6fca1802e59ddc608a1db85e5b3d') in 0.0127708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.980786 seconds.
+  path: Assets/text.jpg
+  artifactKey: Guid(3bba2b1401057d24b8652193cc309d6c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/text.jpg using Guid(3bba2b1401057d24b8652193cc309d6c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c6f2bc9fbea8b9e615f017a1eb12d060') in 0.0317641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.778153 seconds.
+  path: Assets/Materials/text.mat
+  artifactKey: Guid(8493575d9148227459edec744b4d6ee5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/text.mat using Guid(8493575d9148227459edec744b4d6ee5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '896334c953943e0b80c0a7221502f17e') in 0.0095938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.956764 seconds.
+  path: Assets/Materials/text.mat
+  artifactKey: Guid(8493575d9148227459edec744b4d6ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/text.mat using Guid(8493575d9148227459edec744b4d6ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee2af3c4050949dbf66b143f1ec45370') in 0.0111789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.128001 seconds.
+  path: Assets/Script/New Folder
+  artifactKey: Guid(bf74f2e501173244f96f8c82d33a9032) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/New Folder using Guid(bf74f2e501173244f96f8c82d33a9032) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'db37433484b184ed7108492e3c129be4') in 0.0093056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.657308 seconds.
+  path: Assets/Script/New Folder
+  artifactKey: Guid(bf74f2e501173244f96f8c82d33a9032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/New Folder using Guid(bf74f2e501173244f96f8c82d33a9032) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '985e60de7882016d42959be4775e9d01') in 0.0003606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.835234 seconds.
+  path: Assets/Script/Your Script
+  artifactKey: Guid(bf74f2e501173244f96f8c82d33a9032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Your Script using Guid(bf74f2e501173244f96f8c82d33a9032) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bd9d295791b66b4b2f9744e9af6b5c1') in 0.0006349 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.974762 seconds.
+  path: Assets/Script/Your Script
+  artifactKey: Guid(bf74f2e501173244f96f8c82d33a9032) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/Your Script using Guid(bf74f2e501173244f96f8c82d33a9032) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '215112aee4a7939075027431342aba63') in 0.0070317 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3886 unused Assets / (0.9 MB). Loaded Objects now: 4523.
+Memory consumption went from 94.5 MB to 93.6 MB.
+Total: 5.518700 ms (FindLiveObjects: 0.337500 ms CreateObjectMapping: 0.270200 ms MarkObjects: 4.233700 ms  DeleteObjects: 0.676500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.071681 seconds.
+  path: Assets/Script/Your Script/PlayerMovement.cs
+  artifactKey: Guid(6442e7b7938305245b5768d1d79a19a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/Your Script/PlayerMovement.cs using Guid(6442e7b7938305245b5768d1d79a19a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4e8e531013474c0ef4d30b9d1c7d5ea8') in 0.0106712 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.469 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.416 seconds
+Domain Reload Profiling: 886ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (255ms)
+		LoadAssemblies (219ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (107ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (93ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (416ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (335ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (199ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3892 unused Assets / (1.1 MB). Loaded Objects now: 4524.
+Memory consumption went from 95.6 MB to 94.5 MB.
+Total: 5.006000 ms (FindLiveObjects: 0.332200 ms CreateObjectMapping: 0.240600 ms MarkObjects: 3.524500 ms  DeleteObjects: 0.907800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
